@@ -6,11 +6,11 @@
 <img src="https://user-images.githubusercontent.com/2031493/80385493-4f1b8480-88d0-11ea-8110-ab62c747a997.png" width="200" height="200">
 
 <p align="center">
-<a href="https://github.com/bluenumberfoundation/humanid-ios-sdk/wiki">Wiki</a> • 
-<a href="https://github.com/bluenumberfoundation/humanid-ios-sdk/wiki/integration">Integration</a> • 
-<a href="https://github.com/bluenumberfoundation/humanid-ios-sdk/wiki/contributing">Contributing</a> • 
-<a href="https://github.com/bluenumberfoundation/humanid-ios-sdk/wiki/gallery">Gallery</a> • 
-<a href="https://github.com/bluenumberfoundation/humanid-ios-sdk/wiki/faq">FAQ</a>
+<a href="https://github.com/bluenumberfoundation/humanid-documentation/wiki">Wiki</a> • 
+<a href="https://github.com/bluenumberfoundation/humanid-documentation/blob/master/integration.md">Integration</a> • 
+<a href="https://github.com/bluenumberfoundation/humanid-documentation/blob/master/contributing.md">Contributing</a> • 
+<a href="https://github.com/bluenumberfoundation/humanid-documentation/blob/master/gallery.md">Gallery</a> • 
+<a href="https://github.com/bluenumberfoundation/humanid-documentation/blob/master/faq.md">FAQ</a>
 
 <p align="center">
 Meet humanID - An anonymous online identity, enabling platforms to offer the speed and comfort of social logins, while guaranteeing absolute privacy and protecting our communities by permanently blocking bots, spams, and trolls.
@@ -57,3 +57,7 @@ For more information, see our <a href="https://github.com/bluenumberfoundation/h
 
 
 ### Android 
+ #### Requirements
+
+* API level 18 or higher
+* Kotlin
