@@ -56,7 +56,7 @@ Feel free to join the discussion on <a href="https://chat.whatsapp.com/ECUQk2dod
 <summary> 1. How do I report a bug/issue?</summary><br>
 <p>If you find a bug or error with humanID apps, please submit an issue in each repository affected under the issue tab. Be as descriptive as possible: include exactly what you did to make the bug appear, what you expected to happen, and what happened instead. Please include screenshots of error and use labels to declare the type and urgency of the issue. Remember to check for similar issues already reported.
   
-  ![iOS issues](https://github.com/bluenumberfoundation/humanid-ios-sdk/issues)  ![Android issues](https://github.com/bluenumberfoundation/humanid-android-sdk/issues)<br><br>
+  [iOS issues](https://github.com/bluenumberfoundation/humanid-ios-sdk/issues)  [Android issues](https://github.com/bluenumberfoundation/humanid-android-sdk/issues)<br><br>
 
 If you think you've found a security issue, you can responsibly disclose it to us by email : cs@humanid-org.
 <br><br></p>
