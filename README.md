@@ -60,3 +60,7 @@ For more information, see our <a href="https://github.com/bluenumberfoundation/h
 
 * API level 18 or higher
 * Kotlin
+
+## Credentials Access
+
+Get the appId and appSecret by dropping us an email [developers@human-id.org](mailto:developers@human-id.org).
