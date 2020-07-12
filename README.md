@@ -7,7 +7,6 @@
 
 <p align="center">
 <a href="https://github.com/bluenumberfoundation/humanid-documentation/wiki">Wiki</a> • 
-<a href="https://github.com/bluenumberfoundation/humanid-documentation/blob/master/integration.md">Integration</a> • 
 <a href="https://github.com/bluenumberfoundation/humanid-documentation/blob/master/contributing.md">Contributing</a> • 
 <a href="https://github.com/bluenumberfoundation/humanid-documentation/blob/master/gallery.md">Gallery</a> • 
 <a href="https://github.com/bluenumberfoundation/humanid-documentation/blob/master/faq.md">FAQ</a>
