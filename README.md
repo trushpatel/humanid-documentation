@@ -32,6 +32,7 @@ Here's what makes humanID so great:
 
 For more information, see our <a href="https://github.com/bluenumberfoundation/humanid-documentation/blob/master/humanIDWhitePaper.pdf">Whitepaper</a>
 
+Additionally, if you're interested in our roadmap, here's what we currently have! <a href="https://github.com/bluenumberfoundation/humanid-documentation/blob/master/roadmap.png"> Roadmap</a>
 
 ## Here's some technical info about us:
  ### iOS
