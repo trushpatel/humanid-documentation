@@ -1,5 +1,5 @@
-# humanid-documentation (OUTDATED)
-
+# humanid-documentation
+## OUTDATED (last updated 06/30/2020)
 
 
 <p align="center">
